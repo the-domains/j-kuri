@@ -1,0 +1,28 @@
+name: J-kuri
+favicon: null
+layout_spectrum: 0.2951754096429795
+typography_spectrum: 0.9936373003292829
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.357836025999859
+  lightness: 0.017901755636557937
+  saturation: 0.8094865495804697
+  rhythmicContrast: 0.9069562461227179
+purpose: []
