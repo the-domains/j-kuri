@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[J-kuri]]></title>
+        <description><![CDATA[J-kuri]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Mar 2016 14:15:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Love Coffee and Sharing Ideas?]]></title>
+            <description><![CDATA[<article><h1>Love Coffee and Sharing Ideas?</h1><p>J-kuri has some big projects for 2016. The Ginkgo Alliance is our private mastermind which we established in January 2015. We're currently inviting a few new members to join the Alliance. If you're an up and coming entrepreneur who likes to meet with likeminded people regularly over coffee then you might be a good fit for our group. Numbers are strictly limited. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2483bbae0b6afed1927bad822859562b897c8f51.jpg"></article>]]></description>
+            <link>undefineda-mastermind-for-the-people-of-kansai/index.html</link>
+            <guid isPermaLink="false">406dba3c-1bd4-428e-826e-f49f71f2fdec</guid>
+            <pubDate>Mon, 14 Mar 2016 14:15:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
